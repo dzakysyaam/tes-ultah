@@ -1,0 +1,1 @@
+prompt("usia lo berapa?")

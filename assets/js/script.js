@@ -30,7 +30,7 @@ jam.innerHTML = `${hour}:${minutes}`
 
 // Dirubah 
 const pengirim = "Jekisyem";
-const nomorWa = "6281953938930" // awalan nomor 0 harus di awalin 62
+const nomorWa = "6285691597400" // awalan nomor 0 harus di awalin 62
 const textWa = "haii selamat ulang tahun"
 const pesan = `Cantik selamat ulang tahun semoga panjang umur sehat selalu dan apa yang dicita citakan tercapai`;
 
